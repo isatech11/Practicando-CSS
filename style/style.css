@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+.uno{
+    display: flex;
+    background: linear-gradient(to right , #fad7a1,#e96d71);
+    max-width: 900px;
+    margin:auto;
+  
+}
+
+.computador{
+    width: 31.25rem;
+    margin: 3rem;
+    
+}
+
+.github{
+    width: 1rem;
+}
+
+.persona{
+    width: 5rem;
+    height: 4.5rem;
+}
+
+.primero{
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    font-size: 1.3rem;
+    background-color: black;
+    color: cyan;
+    margin: 0.5rem;
+}
+small{
+    margin: 0.5rem;
+}
+.boton1{
+    background-color: cyan;
+    border-radius: 1rem;
+    margin: 1rem;
+    font-size: 1rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0.3rem 0.8rem;
+}
+.boton2{
+    background-color: #fad7a1;
+    border-radius: 1rem;
+    font-size: 1rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0.3rem 0.8rem;
+}
+
+.dos{
+    
+    background-color:papayawhip;    
+    opacity: 0.78;
+    max-width: 500px;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+.persona{
+    margin: 1rem;
+    border-radius: 15rem;
+}
+
+.textouno{
+    margin: 1rem;
+    font-size: 1.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.padre{
+    background:linear-gradient(to right , #fad7a1,#e96d71);
+    max-width: 900px;
+    margin:auto;
+    padding: 1rem 0;
+    
+}
+.textodos{
+    padding: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
