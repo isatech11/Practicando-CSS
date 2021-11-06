@@ -155,7 +155,8 @@ width: 100%;
     background: linear-gradient(to right , #fad7a1,#e96d71);
     opacity: 0.8;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+    max-width: 900px;
+   margin: auto;
    
 
 
